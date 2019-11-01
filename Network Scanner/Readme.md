@@ -4,6 +4,7 @@
  **Requirements** 
  
  A requiremnets.py is been made run it before running the Script :grinning:
+ * `python requirements.py`
 
 **Script**
 * `python network_scanner.py --target <IP Range>`
