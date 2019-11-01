@@ -4,3 +4,4 @@
  # Requirements 
  A requiremnets.py is been made run it before running the Script
  
+The commands available are: (default names)
