@@ -16,8 +16,8 @@ Before running the script set :
 *To run the Script* `python arp_spoof.py`
 
 *Example*
-*`target_ip="192.168.1.69"`
-*`gateway_ip="192.168.1.1"`
-*`python arp_spoof.py `
+* `target_ip="192.168.1.69"`
+* `gateway_ip="192.168.1.1"`
+* `python arp_spoof.py `
 
 
