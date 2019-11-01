@@ -32,5 +32,5 @@ def process_sniffed_packet(packet):
         if login_info:
             print("\n\n[+] Possible usernmae/password >>" + login_info + "\n\n")
 
-interface=input("[+] Enter the interface you want to sniff on ")
-sniff(interface)
+interface_name = raw_input("[+] Enter the interface you want to sniff on ")
+sniff(interface_name)
