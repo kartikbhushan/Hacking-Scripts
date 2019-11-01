@@ -1,5 +1,5 @@
 # Packet Sniffer 
- A Script that Sniffs for HTTP packets and also possible username and passwords entered by the victim   :wink: .
+ A Script that Sniffs for HTTP packets and also possible username and passwords entered by the victim  :scream: .
  
  **Requirements** 
  
