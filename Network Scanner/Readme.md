@@ -5,3 +5,10 @@
  
  A requiremnets.py is been made run it before running the Script :grinning:
 
+**Script**
+* `python network_scanner.py --target <IP Range>`
+ or 
+* `python network_scanner.py -t <IP Range>`
+
+*Example*
+`python network_scannerr.py --target 192.168.1.1/24 `
