@@ -1,5 +1,5 @@
-# Mac Changer 
- A Script that changes your mac address so that you can stay a bit anonymous  :wink: .
+# Packet Sniffer 
+ A Script that Sniffs for HTTP packets and also possible username and passwords entered by the victim   :wink: .
  
  **Requirements** 
  
@@ -7,9 +7,5 @@
  * `python requirements.py`
 
 **Script**
-* `python Mac_changer.py -i <interface name> -m <new mac address>`
- or 
-* `python Mac_changer.py --interface <interface name> --mac <new mac address>`
+* `python packet_sniffer.py`
 
-*Example*
-`python Mac_changer.py -i eth0 -m 00:11:22:33:44:55 `
