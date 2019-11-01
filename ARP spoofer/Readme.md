@@ -1,5 +1,5 @@
-# Mac Changer 
- A Script that changes your mac address so that you can stay a bit anonymous  :wink: .
+# ARP Spoofer 
+A Script to perform MITM attacks .This Script will put you in middle of a connection to perform further operations related to MITM :sunglasses:	 .
  
  **Requirements** 
  
@@ -7,9 +7,16 @@
  * `python requirements.py`
 
 **Script**
-* `python Mac_changer.py -i <interface name> -m <new mac address>`
- or 
-* `python Mac_changer.py --interface <interface name> --mac <new mac address>`
+Before running the script
+*`target_ip="enter a valid target ip"`
+*`gateway_ip="enter a valid gateway ip"`
+
+*To run the Script* `python arp_spoof.py`
 
 *Example*
-`python Mac_changer.py -i eth0 -m 00:11:22:33:44:55 `
+
+*`target_ip="192.168.1.69"`
+*`gateway_ip="192.168.1.1"`
+*`python arp_spoof.py `
+
+
