@@ -1,9 +1,9 @@
 # Mac Changer 
- A Script that changes your mac address so that you can stay a bit anonymous.
+ A Script that changes your mac address so that you can stay a bit anonymous  :wink: .
  
  **Requirements** 
  
- A requiremnets.py is been made run it before running the Script :wink: 
+ A requiremnets.py is been made run it before running the Script 
  * `python requirements.py`
 
 **Script**
