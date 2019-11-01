@@ -3,7 +3,7 @@ A Script to perform MITM attacks .This Script will put you in middle of a connec
  
  **Requirements** 
  
- A requiremnets.py is been made ,run it before running the Script 
+ A requirements.py is been made ,run it before running the Script 
  * `python requirements.py`
 
 **Script**
