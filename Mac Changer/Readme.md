@@ -3,7 +3,7 @@
  
  **Requirements** 
  
- A requiremnets.py is been made run it before running the Script :grinning:
+ A requiremnets.py is been made run it before running the Script :wink: 
  * `python requirements.py`
 
 **Script**
