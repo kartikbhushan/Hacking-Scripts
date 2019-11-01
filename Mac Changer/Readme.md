@@ -1,5 +1,5 @@
-#Network Scanner
- A Network Scanner using Scapy module which will Scan and display all the devices currently on the network using ARP packets
+# Mac Changer 
+ A Script that changes your mac address so that you can stay a bit anonymous.
  
  **Requirements** 
  
@@ -7,9 +7,9 @@
  * `python requirements.py`
 
 **Script**
-* `python network_scanner.py --target <IP Range>`
+* `python Mac_changer.py -i <interface name> -m <new mac address>`
  or 
-* `python network_scanner.py -t <IP Range>`
+* `python Mac_changer.py --interface <interface name> --mac <new mac address>`
 
 *Example*
-`python network_scannerr.py --target 192.168.1.1/24 `
+`python Mac_changer.py -i eth0 -m 00:11:22:33:44:55 `
