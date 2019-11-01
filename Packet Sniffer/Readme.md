@@ -7,6 +7,6 @@
  * `python requirements.py`
 
 **Script**
-* `python packet_sniffer.py`
+* `python Packet_sniffer.py`
 
 <img src="./PacketSniffer.JPG" alt="PacketSniffer" width="500">
