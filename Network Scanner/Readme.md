@@ -12,4 +12,4 @@
 * `python3 network_scanner.py -t <IP Range>`
 
 *Example*
-`python3 network_scannerr.py --target 192.168.1.1/24 `
+`python3 network_scanner.py --target 192.168.1.1/24 `
