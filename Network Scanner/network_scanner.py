@@ -7,7 +7,7 @@ def get_arguments():
     #parser object 
     parser= argparse.ArgumentParser()
     #options to the object 
-    parser.add_arguments("-t", "--target", dest="target", help="To Specify the Ip range you want to scan in")
+    parser.add_argument("-t", "--target", dest="target", help="To Specify the Ip range you want to scan in")
     #handle the arguments user enters
     options=parser.parse_args()
     if not options.target:
