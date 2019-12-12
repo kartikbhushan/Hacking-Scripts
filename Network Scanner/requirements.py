@@ -1,3 +1,3 @@
 import os
-os.system("pip install scapy")
-os.system("pip install optparse")
+os.system("pip3 install scapy-python3")
+os.system("pip3 install argparse")
