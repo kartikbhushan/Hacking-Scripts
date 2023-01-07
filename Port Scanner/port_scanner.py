@@ -10,6 +10,7 @@ class Scanner:
         return 'Scanner: {}'.format(self.ip)
 
     def scan(self, lowerport , upperport):
+        print("Scanning IP : {}".format(self.ip))
         print("Scanning Ports from range " + str(lowerport) + " - " + str(upperport))
         print("Default Socket timeout is set to {}".format(self.timeout))
         for port in range(lowerport , upperport+1):
