@@ -15,6 +15,7 @@ python3 port_scanner.py
 ## Output - 
 
 ```
+Scanning IP : 10.0.10.104
 Scanning Ports from range 1 - 100
 Default Socket timeout is set to 0.1
 ALL THE OPEN PORTS ARE: []
