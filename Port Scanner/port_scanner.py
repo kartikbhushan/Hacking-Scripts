@@ -32,7 +32,7 @@ class Scanner:
 
 
 def main():
-    ip = '192.168.0.107'
+    ip = '10.0.10.104'
     lowerport = 1
     upperport = 100
     scanner = Scanner(ip)
